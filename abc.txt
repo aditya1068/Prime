@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 6084-540E
+
+ Directory of C:\Users\shaadity\Desktop\JavaPra
+
+17-Nov-20  12:45 AM    <DIR>          .
+17-Nov-20  12:45 AM    <DIR>          ..
+17-Nov-20  12:45 AM                 0 abc.txt
+16-Nov-20  11:59 PM             1,093 PrimeNumbers.class
+16-Nov-20  11:59 PM               641 PrimeNumbers.java
+               3 File(s)          1,734 bytes
+               2 Dir(s)  93,029,294,080 bytes free
